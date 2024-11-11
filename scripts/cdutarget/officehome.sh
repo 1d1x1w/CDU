@@ -1,0 +1,12 @@
+bash scripts/cdutarget/main_cdutarget.sh officehome b32_ep20_officehome CDUTARGET ViT-B/16 4 a-c 0 100
+bash scripts/cdutarget/main_cdutarget.sh officehome b32_ep20_officehome CDUTARGET ViT-B/16 4 a-p 0 100
+bash scripts/cdutarget/main_cdutarget.sh officehome b32_ep20_officehome CDUTARGET ViT-B/16 4 a-r 0 100
+bash scripts/cdutarget/main_cdutarget.sh officehome b32_ep20_officehome CDUTARGET ViT-B/16 4 c-a 0 100
+bash scripts/cdutarget/main_cdutarget.sh officehome b32_ep20_officehome CDUTARGET ViT-B/16 4 c-p 0 100
+bash scripts/cdutarget/main_cdutarget.sh officehome b32_ep20_officehome CDUTARGET ViT-B/16 4 c-r 0 100
+bash scripts/cdutarget/main_cdutarget.sh officehome b32_ep20_officehome CDUTARGET ViT-B/16 4 p-a 0 100
+bash scripts/cdutarget/main_cdutarget.sh officehome b32_ep20_officehome CDUTARGET ViT-B/16 4 p-c 0 100
+bash scripts/cdutarget/main_cdutarget.sh officehome b32_ep20_officehome CDUTARGET ViT-B/16 4 p-r 0 100
+bash scripts/cdutarget/main_cdutarget.sh officehome b32_ep20_officehome CDUTARGET ViT-B/16 4 r-a 0 100
+bash scripts/cdutarget/main_cdutarget.sh officehome b32_ep20_officehome CDUTARGET ViT-B/16 4 r-c 0 100
+bash scripts/cdutarget/main_cdutarget.sh officehome b32_ep20_officehome CDUTARGET ViT-B/16 4 r-p 0 100
